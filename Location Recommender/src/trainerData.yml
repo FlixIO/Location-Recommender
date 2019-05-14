@@ -1,0 +1,63 @@
+data:
+  amsterdam:
+    1:
+      text: 'Good food, cheap alcohol, nice vibe'
+      polarity: 1
+      category: BAR
+    2:
+      text: 'Bad service, slow waiters, prices are alright'
+      polarity: -1
+      category: BAR
+    3:
+      text: 'Scottish whisky's, bottled beer, full wine list, great coffee and patio with view over the water'
+      polarity: 1
+      category: BAR
+    4:
+      text: 'Beautiful Private Bar on a houseboat, entrance by invitation only'
+      polarity: 1
+      category: BAR
+    5:
+      text: 'Expensive pool tables and decent prices for food and drinks'
+      polarity: -1
+      category: BAR
+    6:
+      text: 'For live indie bands, the OCCII is the best! Amazing music'
+      polarity: 1
+      category: NIGHTCLUB
+    7:
+      text: 'Expensive drinks, dangerous, annoying bouncers'
+      polarity: -1
+      category: NIGHTCLUB
+    8:
+      text: 'Cheap drinks and chilled vibe, friendly bartenders! Will visit again!'
+      polarity: 1
+      category: NIGHTCLUB
+    9:
+      text: 'Pricy entry fee, bad music, cheap drinks, wouldn't recommend for anyone looking to have a good night! thanks'
+      polarity: -1
+      category: NIGHTCLUB
+    10:
+      text: 'bad location of the club, far from city center. Area looks dangerous and there were fights in the club wont be visiting again'
+      polarity: -1
+      category: NIGHTCLUB
+    11:
+      text: 'Not a swimming beach, no life guards and rocky area. I injured my foot while swimming there, hurt'
+      polarity: -1
+      category: BEACH
+    12:
+      text: 'Overly packed with too many fisherman for a swimming beach! Bad place for a swim!'
+      polarity: -1
+      category: BEACH
+    13:
+      text: 'Friendly life guards for the whole day! There is food and drinks available and not that expensive either, good place and would visit again'
+      polarity: 1
+      category: BEACH
+    14:
+      text: 'Plenty of available parking with restaurants nearby. A mangrove area is also nearby for exploring. good place'
+      polarity: 1
+      category: BEACH
+    15:
+      text: '   !'
+      polarity: 1
+      category: BEACH
+  

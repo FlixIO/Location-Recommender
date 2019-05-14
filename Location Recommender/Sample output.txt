@@ -1,0 +1,156 @@
+TUSCANY data loaded in [2855ms]
+ROME data loaded in [3218ms]
+PARIS data loaded in [3578ms]
+DUBAI data loaded in [4362ms]
+AMSTERDAM data loaded in [4540ms]
+BARCELONA data loaded in [4647ms]
+BERLIN data loaded in [6316ms]
+LONDON data loaded in [9164ms]
+trainingData.json imported in [47ms]
+
+User1
+AMSTERDAM: NaN
+BARCELONA: can not imagine visiting barcelona without watching fc barcelona in the camp nou. enjoy the game!
+BERLIN: visit the museum. expensive and not airconditioned but a great overview of recent history.
+DUBAI: dolphin show at 11 am & 6 pm
+LONDON: this is a great venue if you want to get live music
+PARIS: go to napoleon's tomb, visit the galleries and... drink the chocolate !
+ROME: there is not so much line this morning....around 20 minutes to get in...
+TUSCANY: this was the theatre of roman lucca; it held up to 10,000 people. the 55 arches are all still there, count em if you don’t believe us!
+AMSTERDAM: NaN
+BARCELONA: 4.0
+BERLIN: 3.0
+DUBAI: 2.0
+LONDON: 4.0
+PARIS: 2.0
+ROME: 2.0
+TUSCANY: 2.0
+
+User2
+AMSTERDAM: NaN
+BARCELONA: good coffee and nice atmosphere to be working with internet (it's not that easy in barcelona).
+BERLIN: sneak in whiskey. then sneak into a second film. no-one's checking.
+DUBAI: great n awesome interior mosque..
+LONDON: they've got arctic roll on the menu. you have to go.
+PARIS: milkshake banane pas bon et cher !
+ROME: NaN
+TUSCANY: hotel ristorante da graziano , nice position , parking,  good restaurant , nice view !! visit our website : www.hoteldagraziano.it look all the offer !!!!
+AMSTERDAM: NaN
+BARCELONA: 4.0
+BERLIN: 3.0
+DUBAI: 4.0
+LONDON: 2.0
+PARIS: 2.0
+ROME: NaN
+TUSCANY: 4.0
+
+User3
+AMSTERDAM: china town in amsterdam. unique atmoshere of asia. find the fo guang shan he hua temple, and visit 2 countries in 1 step!
+BARCELONA: NaN
+BERLIN: NaN
+DUBAI: NaN
+LONDON: NaN
+PARIS: NaN
+ROME: built in the closing years of the roman republic. at the theatre, locals and visitors alike were able to watch performances of drama and song.
+TUSCANY: nice peoples
+AMSTERDAM: 2.0
+BARCELONA: NaN
+BERLIN: NaN
+DUBAI: NaN
+LONDON: NaN
+PARIS: NaN
+ROME: 2.0
+TUSCANY: 4.0
+
+User4
+AMSTERDAM: NaN
+BARCELONA: NaN
+BERLIN: the great museum that i told you about with the thousand-year-old temple entrance in the museum entrance.
+DUBAI: NaN
+LONDON: NaN
+PARIS: my fav' ugc in paris! tickets 4,90€ all the time if like me you're under 26 :d
+ROME: NaN
+TUSCANY: pair the tour with the lunch!! best experience of the area!
+AMSTERDAM: NaN
+BARCELONA: NaN
+BERLIN: 4.0
+DUBAI: NaN
+LONDON: NaN
+PARIS: 4.0
+ROME: NaN
+TUSCANY: 4.0
+
+User5
+AMSTERDAM: zondag 15 januari 2012 arrowhead live, rockconcert!
+BARCELONA: esportiu rocafort was a little chaotic. there were several staff present that were a delight. if you&#39;d like to simply stop in for a work out (say on business travel) -- forget it. they won&#39;t let you in -- and they won&#39;t recommend other places in town. as a matter of fact the two people at the reception desk on the evening of june 19 2012 --told me that barcelona did not have any other health clubs as recommendations to me. after i left this place, i saw a group of 5-6 people walking the streets with some work out mats, so i followed them. they took me to cem can ricart -- a health club/gym which had a ymca type atmosphere..with children playing and a family-style environment. they were very welcoming and allowed you to pay per individual class. they have a plethora of classes offered. there is also a spa across the way -- and outdoor seats for relaxing/taking a snack. i&#39;d recommend you don&#39;t go to esportiu rocafort.
+BERLIN: NaN
+DUBAI: great to take a night time swim - open until 10pm
+LONDON: this is well worth a visit if your in the area. the museum is a hidden treasure in south london, which most tourists will miss. over recent years the museum has had lots of money invested in bringing it up to date as it used to be very old and dusty which was part of its charm. now however the whole experience is more interactive and awe inspiring for adults as well as children. the gardens are lovely to stroll around with well kept areas and a animal zone that children will love to see.
+PARIS: nice food, decent service, original interior and live music make it a great place! will definitely come back!
+ROME: NaN
+TUSCANY: NaN
+AMSTERDAM: 2.0
+BARCELONA: 3.0
+BERLIN: NaN
+DUBAI: 4.0
+LONDON: 3.0
+PARIS: 4.0
+ROME: NaN
+TUSCANY: NaN
+
+AMSTERDAM	BARCELONA	BERLIN	DUBAI	LONDON	PARIS	ROME	TUSCANY	
+USER 0	NaN	4.0	3.0	4.0	2.0	2.0	NaN	4.0	
+
+USER 1	NaN	4.0	3.0	2.0	4.0	2.0	2.0	2.0	
+
+USER 2	2.0	3.0	NaN	4.0	3.0	4.0	NaN	NaN	
+
+USER 3	NaN	NaN	4.0	NaN	NaN	4.0	NaN	4.0	
+
+USER 4	2.0	NaN	NaN	NaN	NaN	NaN	2.0	4.0	
+
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+May 10, 2019 9:45:43 AM com.github.fommil.netlib.LAPACK <clinit>
+WARNING: Failed to load implementation from: com.github.fommil.netlib.NativeSystemLAPACK
+May 10, 2019 9:45:43 AM com.github.fommil.jni.JniLoader liberalLoad
+INFO: successfully loaded C:\Users\Tyrian\AppData\Local\Temp\jniloader804936704181345567netlib-native_ref-win-x86_64.dll
+AMSTERDAM	BARCELONA	BERLIN	DUBAI	LONDON	PARIS	ROME	TUSCANY	
+USER 0	1.8071846029809178	4.0	3.0	4.0	2.0	2.0	1.8102850050220542	4.0	
+
+USER 1	1.9842340379515497	4.0	3.0	2.0	4.0	2.0	2.0	2.0	
+
+USER 2	2.0	3.0	3.2334951683509106	4.0	3.0	4.0	2.0036716752698878	4.412930455901264	
+
+USER 3	2.721964548791546	5.254021276069553	4.0	4.077409794689142	4.631313918537491	4.0	2.7358760511947184	4.0	
+
+USER 4	2.0	3.685169014804877	3.176050678146283	3.858015486003169	2.851421590191589	3.148142569797368	2.0	4.0	
+
+AMSTERDAM	BARCELONA	BERLIN	DUBAI	LONDON	PARIS	ROME	TUSCANY	
+USER 0	2.0	4.0	3.0	4.0	2.0	2.0	2.0	4.0	
+
+USER 1	2.0	4.0	3.0	2.0	4.0	2.0	2.0	2.0	
+
+USER 2	2.0	3.0	4.0	4.0	3.0	4.0	3.0	5.0	
+
+USER 3	3.0	5.0	4.0	5.0	5.0	4.0	3.0	4.0	
+
+USER 4	2.0	4.0	4.0	4.0	3.0	4.0	2.0	4.0	
+
+AMSTERDAM IS NOT recommended for User2
+ROME IS NOT recommended for User2
+AMSTERDAM IS NOT recommended for User1
+BERLIN IS recommended for User5
+ROME IS recommended for User5
+TUSCANY IS recommended for User5
+AMSTERDAM IS recommended for User4
+BARCELONA IS recommended for User4
+DUBAI IS recommended for User4
+LONDON IS recommended for User4
+ROME IS recommended for User4
+BARCELONA IS recommended for User3
+BERLIN IS recommended for User3
+DUBAI IS recommended for User3
+LONDON IS recommended for User3
+PARIS IS recommended for User3
